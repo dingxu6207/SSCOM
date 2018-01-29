@@ -1,0 +1,8 @@
+E:\c#_test\test\SSCOM\SSCOM\SSCOM\bin\Debug\SSCOM.exe
+E:\c#_test\test\SSCOM\SSCOM\SSCOM\bin\Debug\SSCOM.pdb
+E:\c#_test\test\SSCOM\SSCOM\SSCOM\obj\x86\Debug\SSCOM.Form1.resources
+E:\c#_test\test\SSCOM\SSCOM\SSCOM\obj\x86\Debug\SSCOM.Properties.Resources.resources
+E:\c#_test\test\SSCOM\SSCOM\SSCOM\obj\x86\Debug\SSCOM.ComSet.resources
+E:\c#_test\test\SSCOM\SSCOM\SSCOM\obj\x86\Debug\SSCOM.csproj.GenerateResource.Cache
+E:\c#_test\test\SSCOM\SSCOM\SSCOM\obj\x86\Debug\SSCOM.exe
+E:\c#_test\test\SSCOM\SSCOM\SSCOM\obj\x86\Debug\SSCOM.pdb
